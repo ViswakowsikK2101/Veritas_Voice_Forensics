@@ -1,0 +1,7 @@
+{
+  "name": "Veritas Voice Forensics",
+  "description": "A production-grade interface for AI audio detection, including real-time visualization, mock inference simulation, and a full view of the underlying PyTorch/FastAPI backend architecture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
